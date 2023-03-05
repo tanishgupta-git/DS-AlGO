@@ -72,8 +72,6 @@
 
  let ht = new HashTable();
  ht.set("hello world","goodbye!!");
-  ht.set("megha love","tanu!!");
-   ht.set("mamma love","tanu!!");
  console.log(ht.keyMap);
 console.log(ht.keys());
 console.log(ht.values());
